@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "ID": "1b5f8aa2-d21b-4482-9e9f-c1ea33e1141b",
+      "Name": "New Item",
+      "Description": "New item description",
+      "MaxStack": 1,
+      "Type": "None",
+      "Rarity": "Common",
+      "Element": "None",
+      "AccessoryType": "None",
+      "StatRanges": {
+        "possibleStats": [],
+        "minStatCount": 1,
+        "maxStatCount": 4
+      },
+      "EffectRanges": {
+        "effectIDs": [],
+        "minEffectCount": 1,
+        "maxEffectCount": 3
+      }
+    }
+  ]
+}
