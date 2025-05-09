@@ -1,5 +1,21 @@
 {
   "dependencies": {
+    "com.boxqkrtm.ide.cursor": {
+      "version": "https://github.com/boxqkrtm/com.unity.ide.cursor.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.test-framework": "1.1.9"
+      },
+      "hash": "0a98b387a92cf9f1f47012fc46d4cf33576e5916"
+    },
+    "com.cysharp.unitask": {
+      "version": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "06067cd4c83e372310d6f79d1c625f6870ff7a2a"
+    },
     "com.unity.burst": {
       "version": "1.8.18",
       "depth": 1,
@@ -70,9 +86,25 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+    "com.unity.inputsystem": {
+      "version": "1.11.2",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.uielements": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.mathematics": {
       "version": "1.2.6",
       "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.nuget.newtonsoft-json": {
+      "version": "3.2.1",
+      "depth": 0,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
